@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SimpleTourGuide</string>
+
+
+
+    <string name="category_start">Start</string>
+    <string name="category_northtour">North Tour</string>
+    <string name="category_southtour">South Tour</string>
+    <string name="category_easttour">East Tour</string>
+
+</resources>
