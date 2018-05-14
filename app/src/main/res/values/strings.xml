@@ -8,6 +8,24 @@
     <string name="category_southtour">South Tour</string>
     <string name="category_easttour">East Tour</string>
 
+
+    <string name="districts_title_1">Sady</string>
+    <string name="districts_title_2">Zoliborskie</string>
+    <string name="districts_title_3">Dzielnica</string>
+
+    <string name="east_title_1">Daschund</string>
+    <string name="east_title_2">Grochow</string>
+    <string name="east_title_3">Kinowa</string>
+
+    <string name="north_title_1">Rotunda</string>
+    <string name="north_title_2">Rotunda</string>
+    <string name="north_title_3">Stadion</string>
+
+    <string name="south_title_1">Crossroads</string>
+    <string name="south_title_2">National Library</string>
+    <string name="south_title_3">X</string>
+
+
     <string name="districts_1">Built in 70s, Ursynow\\’s design was created with a keynote - “for serving people”. Individual parts of district were formed from small colonies of short and tall buildings, creating their internal courtyards with squares and greenery. Each building had to be a little different, because the diversity was meant be the distinguishing characteristic of every residential.\n" +
                 "After the construction the lack of shops, pharmacies, clinics and communication was based on the assumption of the imminent launch of subway (for which the Varsovians had to wait till late 90’)). Residents praise the apartments mostly for their layout, but ask them about  driving a nail through a concrete slab and sit comfortable - prepare for an anger-management-therapy material..\n"</string>
     <string name="districts_2">Nowadays Ursynow aspires to be an intellectual block - every third inhabitant has an university degree. Well connected with the center of Warsaw, it is a frequent place to look for a flat. Rental or sales offers tend to disappear in a few days!</string>

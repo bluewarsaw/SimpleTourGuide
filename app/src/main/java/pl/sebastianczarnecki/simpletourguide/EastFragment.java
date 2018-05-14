@@ -15,9 +15,9 @@ public class EastFragment extends Fragment{
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
 
         ArrayList<East> tourguideEast = new ArrayList<East>();
-        tourguideEast.add(new East("Daschund", R.drawable.east_2_jamnik, getString(R.string.east_1)));
-        tourguideEast.add(new East("Grochow", R.drawable.east_5_przyczolek, getString(R.string.east_2)));
-        tourguideEast.add(new East("Kinowa", R.drawable.east_6_kinowa, getString(R.string.east_3)));
+        tourguideEast.add(new East(getString(R.string.east_title_1), R.drawable.east_2_jamnik, getString(R.string.east_1)));
+        tourguideEast.add(new East(getString(R.string.east_title_2), R.drawable.east_5_przyczolek, getString(R.string.east_2)));
+        tourguideEast.add(new East(getString(R.string.east_title_3), R.drawable.east_6_kinowa, getString(R.string.east_3)));
 
         //set up adapter:
         EastAdapter eastAdapter = new EastAdapter(getActivity(),tourguideEast);

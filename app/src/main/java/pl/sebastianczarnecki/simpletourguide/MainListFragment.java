@@ -16,9 +16,9 @@ public class MainListFragment extends Fragment{
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
 
         ArrayList<East> tourguideEast = new ArrayList<East>();
-        tourguideEast.add(new East("Ursynow", R.drawable.districts_ursynow1, getString(R.string.districts_1)));
-        tourguideEast.add(new East("Blocks", R.drawable.districts_ursynow2, getString(R.string.districts_2)));
-        tourguideEast.add(new East("Trees", R.drawable.districts_ursynow3, getString(R.string.districts_3)));
+        tourguideEast.add(new East(getString(R.string.districts_title_1), R.drawable.districts_ursynow1, getString(R.string.districts_1)));
+        tourguideEast.add(new East(getString(R.string.districts_title_2), R.drawable.districts_ursynow2, getString(R.string.districts_2)));
+        tourguideEast.add(new East(getString(R.string.districts_title_3), R.drawable.districts_ursynow3, getString(R.string.districts_3)));
 
         //set up adapter:
         EastAdapter eastAdapter = new EastAdapter(getActivity(),tourguideEast);
